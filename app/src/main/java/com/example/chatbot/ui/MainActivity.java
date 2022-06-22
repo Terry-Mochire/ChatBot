@@ -1,8 +1,10 @@
-package com.example.chatbot;
+package com.example.chatbot.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.chatbot.R;
 
 public class MainActivity extends AppCompatActivity {
 
