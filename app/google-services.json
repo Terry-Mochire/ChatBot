@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012670505061",
+    "project_id": "chatbot-93747",
+    "storage_bucket": "chatbot-93747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012670505061:android:2fd76f52b9e8446771268c",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012670505061-crgpfkr5h3uq54me2kveal5i214sen8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbot",
+            "certificate_hash": "ef1b84a6097d627cef7b70d808017ee69472b02a"
+          }
+        },
+        {
+          "client_id": "1012670505061-la9grhssdlmebidqa6r6tl5u71iopig5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxgiANXe_7GFNev--a4OHFfe_gFqzuEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012670505061-la9grhssdlmebidqa6r6tl5u71iopig5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
