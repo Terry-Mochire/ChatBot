@@ -9,8 +9,10 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3880208333333333" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.19882246376811594" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1887031408308004" />
+        <entry key="app/src/main/res/layout/bot_msg.xml" value="0.18819655521783182" />
         <entry key="app/src/main/res/layout/loginform.xml" value="0.225" />
         <entry key="app/src/main/res/layout/signupform.xml" value="0.19882246376811594" />
+        <entry key="app/src/main/res/layout/user_msg.xml" value="0.18819655521783182" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.225" />
       </map>
     </option>
