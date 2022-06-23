@@ -7,12 +7,14 @@
     android:layout_gravity="end"
     android:layout_margin="5dp"
     android:elevation="8dp"
-    app:cardCornerRadius="8dp">
+    app:cardCornerRadius="8dp"
+    >
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:background="@color/orange">
 
         <!--text view for displaying user message-->
         <TextView
@@ -23,7 +25,7 @@
             android:layout_margin="5dp"
             android:padding="3dp"
             android:text="User message"
-            android:textColor="@color/black" />
+            android:textColor="@color/white" />
 
         <!--we are displaying user icon-->
         <ImageView
